@@ -1,15 +1,5 @@
 # Pengenalan
-Aplikasi Si Emak adalah salah satu tugas yang ditunjukkan bagi siswa bertujuan untuk mengasah pemahaman tentang [Flutter.](https://flutter.io/)
+Apliaki Si Emak adalah aplikasi To-Do sederhana dimana aplikasi ini diharapkan dapat membantu ibu rumah tangga untuk mencatat semua daftar belanjaannya. Aplikasi Si Emak dibangun menggunakan [Flutter.](https://flutter.io/)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Tujuan Pembuatan Aplikasi
+Tujuan dari pembuatan aplikasi Si Emak adalah untuk menambah pemahaman tentang [Flutter.](https://flutter.io/)
